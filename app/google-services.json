@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1045795959400",
+    "firebase_url": "https://smartrav-62b23.firebaseio.com",
+    "project_id": "smartrav-62b23",
+    "storage_bucket": "smartrav-62b23.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1045795959400:android:5462149885fec57d",
+        "android_client_info": {
+          "package_name": "com.example.smartrav"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1045795959400-cshkhjn9a373n0eb4plefjf21ktkrov8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.smartrav",
+            "certificate_hash": "554915ea08845673358fbd00204dd7632ff2ca7a"
+          }
+        },
+        {
+          "client_id": "1045795959400-8gvh5h8vet8oi37vh2cl3shckf2qgceu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAqLOiF3juJOe63ocsyUZEdEkaLw8DB40"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1045795959400-8gvh5h8vet8oi37vh2cl3shckf2qgceu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
